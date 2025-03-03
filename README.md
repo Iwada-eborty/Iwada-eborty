@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Iwada-eborty
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on software development
+- 👀 I’m interested in Data analysis
+- 🌱 I’m currently learning python programming language
+- 💞️ I can carry out data analysis using microsoft excel and pivot tables for dashboard visualizations
+- I am open to collaborate and work on projects
 - 📫 How to reach me https://instagram.com/joygeh
 
 <!---
