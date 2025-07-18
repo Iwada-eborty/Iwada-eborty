@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iwada-eborty
-- 👀 I’m interested in interships and entry-level roles
+- 👀 I’m interested in interships and entry-level roles in Data analysis
 - 🌱 I’m currently learning python programming language
 - 💞️ I can carry out data analysis using microsoft excel, pivot tables for visualizations, knowledge of SQL and Power BI.
 - I am open to collaborate and work on projects
