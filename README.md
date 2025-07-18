@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iwada-eborty
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in interships and entry-level roles
 - 🌱 I’m currently learning python programming language
-- 💞️ I can carry out data analysis using microsoft excel and pivot tables for dashboard visualizations
+- 💞️ I can carry out data analysis using microsoft excel, pivot tables for visualizations, knowledge of SQL and Power BI.
 - I am open to collaborate and work on projects
 - 📫 How to reach me https://instagram.com/joygeh
 
